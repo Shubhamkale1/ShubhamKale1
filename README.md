@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Kale</h1>
+<h1 align="center">Hey there, I'm Shubham Kale! 👋</h1>
 <h3 align="center">💻 A passionate Java Backend Developer</h3>
 
 ## 🌐 Socials:
