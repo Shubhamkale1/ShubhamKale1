@@ -7,6 +7,7 @@
 <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 <a href="mailto:shubhamkale.sits.comp@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 ---
 
 ### 🛠️ Languages and Tools:
@@ -26,6 +27,10 @@
 
 ---
 
+## 📊 LeetCode Stats
+![Shubham's LeetCode Stats](https://leetcard.jacoblin.cool/shubham_96k?theme=dark&font=Recursive&ext=activity)
+
+
 ---
 
 ## 📊 GitHub Stats:
@@ -35,5 +40,4 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shubhamkale1&show_icons=true&layout=compact&theme=dark" width="300" alt="Languages Card" />
 </p>
 
----
 ---
