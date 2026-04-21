@@ -8,22 +8,46 @@
 <a href="mailto:shubhamkale.sits.comp@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<div>
+  <h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30></h2>
+
+
+
+#### 🚀 What I'm Building
+
+- 🔥 **[Event-Management-System](https://github.com/Shubhamkale1/Event-Manager)**                                                                                           
+  Robust platform for event scheduling, user registration, and automated notification handling (Spring Boot + Kafka + Elasticsearch + Redis)
+
+
+- 💼 **[BankingPortal API](https://github.com/Shubhamkale1/BankingPortal-API)**  
+  Secure & scalable banking backend (Spring Boot + JWT + Redis + Actuator)
+
+
+  #### 💬 Ask Me About
+
+Spring Boot | System Design | Docker | Kubernetes | DevOps <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>
+
+</details>
+
+</div>  
+
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</p>
+## 💻 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+
+### Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)   ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23D92C33.svg?style=for-the-badge&logo=redis&logoColor=white)  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Kafka](https://img.shields.io/badge/kafka-%233F3A3A.svg?style=for-the-badge&logo=apachekafka&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  ![Swagger](https://img.shields.io/badge/swagger-%23F7DF1E.svg?style=for-the-badge&logo=swagger&logoColor=black)  ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23000000.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
 
 ---
 
