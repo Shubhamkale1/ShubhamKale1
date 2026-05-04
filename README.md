@@ -16,7 +16,7 @@
 #### 🚀 What I'm Building
 
 - 🔥 **[Event-Management-System](https://github.com/Shubhamkale1/Event-Manager)**                                                                                           
-  Robust platform for event scheduling, user registration, and automated notification handling (Spring Boot + Kafka + Elasticsearch + Redis)
+  Production-ready event platform with automated workflows. Spring Boot backend, Kafka-powered event streaming, Elasticsearch search, and Redis caching for optimal performance and scalability.
 
 
 - 💼 **[BankingPortal API](https://github.com/Shubhamkale1/BankingPortal-API)**  
