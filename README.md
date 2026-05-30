@@ -25,7 +25,7 @@
 
   #### 💬 Ask Me About
 
-Spring Boot | System Design | Docker | Kubernetes | DevOps <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>
+Spring Boot | System Design | kafka | Docker | Kubernetes | DevOps <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"/>
 
 </details>
 
